@@ -6,6 +6,10 @@ O painel permite visualizar informações completas, filtrar por curso, gerar es
 
 ---
 
+![image](https://github.com/user-attachments/assets/557f7e80-b335-4962-804e-d7ee62ee67f2)
+
+---
+
 ## Tecnologias
 
 - Python 3
